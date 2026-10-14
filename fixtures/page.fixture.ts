@@ -8,11 +8,8 @@ import { TransferFundsPage } from '../pages/TransferFundsPage';
 type ApplicationPages = {
 
     loginPage: LoginPage;
-
     navigationPage: NavigationPage;
-
     accountsOverviewPage: AccountsOverviewPage;
-
     transferFundsPage: TransferFundsPage;
 
 };
